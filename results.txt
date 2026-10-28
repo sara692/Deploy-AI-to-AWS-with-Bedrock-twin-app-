@@ -1,0 +1,109 @@
+FAIL  openai.gpt-6-astra  AccessDeniedException
+FAIL  us.openai.gpt-6-astra  AccessDeniedException
+FAIL  nvidia.nemotron-nano-12b-v2  ThrottlingException
+FAIL  us.nvidia.nemotron-nano-12b-v2  ValidationException
+FAIL  openai.gpt-5.6-terra  AccessDeniedException
+FAIL  us.openai.gpt-5.6-terra  AccessDeniedException
+FAIL  anthropic.claude-haiku-4-5-20251001-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.anthropic.claude-haiku-4-5-20251001-v1:0  ResourceNotFoundException
+FAIL  qwen.qwen3-235b-a22b-2507-v1:0  ThrottlingException
+FAIL  us.qwen.qwen3-235b-a22b-2507-v1:0  ValidationException
+FAIL  anthropic.claude-opus-5-5  AccessDeniedException
+FAIL  us.anthropic.claude-opus-5-5  AccessDeniedException
+FAIL  moonshotai.kimi-k2.5  ThrottlingException
+FAIL  us.moonshotai.kimi-k2.5  ValidationException
+FAIL  openai.gpt-oss-120b-1:0  ThrottlingException
+FAIL  us.openai.gpt-oss-120b-1:0  ValidationException
+FAIL  zai.glm-5.3  AccessDeniedException
+FAIL  us.zai.glm-5.3  AccessDeniedException
+FAIL  qwen.qwen3-next-80b-a3b  ThrottlingException
+FAIL  us.qwen.qwen3-next-80b-a3b  ValidationException
+FAIL  moonshotai.kimi-k3  AccessDeniedException
+FAIL  us.moonshotai.kimi-k3  AccessDeniedException
+FAIL  anthropic.claude-fable-5  AccessDeniedException
+FAIL  us.anthropic.claude-fable-5  AccessDeniedException
+FAIL  deepseek.v3.2  ThrottlingException
+FAIL  us.deepseek.v3.2  ValidationException
+FAIL  anthropic.claude-haiku-5-5  AccessDeniedException
+FAIL  us.anthropic.claude-haiku-5-5  AccessDeniedException
+FAIL  twelvelabs.pegasus-1-5-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.twelvelabs.pegasus-1-5-v1:0  ValidationException
+FAIL  nvidia.nemotron-nano-3-30b  ThrottlingException
+FAIL  us.nvidia.nemotron-nano-3-30b  ValidationException
+FAIL  anthropic.claude-sonnet-4-6  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.anthropic.claude-sonnet-4-6  ResourceNotFoundException
+FAIL  minimax.minimax-m2  ThrottlingException
+FAIL  us.minimax.minimax-m2  ValidationException
+FAIL  zai.glm-4.7-flash  ThrottlingException
+FAIL  us.zai.glm-4.7-flash  ValidationException
+FAIL  xai.grok-4.7  AccessDeniedException
+FAIL  us.xai.grok-4.7  AccessDeniedException
+FAIL  mistral.voxtral-mini-3b-2507  ThrottlingException
+FAIL  us.mistral.voxtral-mini-3b-2507  ValidationException
+FAIL  xai.grok-4.6  AccessDeniedException
+FAIL  us.xai.grok-4.6  AccessDeniedException
+FAIL  amazon.nova-pro-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.amazon.nova-pro-v1:0  ThrottlingException
+FAIL  amazon.nova-2-lite-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.amazon.nova-2-lite-v1:0  ThrottlingException
+FAIL  minimax.minimax-m2.5  ThrottlingException
+FAIL  us.minimax.minimax-m2.5  ValidationException
+FAIL  google.gemma-3-12b-it  ThrottlingException
+FAIL  us.google.gemma-3-12b-it  ValidationException
+FAIL  moonshot.kimi-k2-thinking  ThrottlingException
+FAIL  us.moonshot.kimi-k2-thinking  ValidationException
+FAIL  mistral.mistral-large-3-675b-instruct  ThrottlingException
+FAIL  us.mistral.mistral-large-3-675b-instruct  ValidationException
+FAIL  twelvelabs.pegasus-1-2-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.twelvelabs.pegasus-1-2-v1:0  ValidationException
+FAIL  mistral.devstral-2-123b  ThrottlingException
+FAIL  us.mistral.devstral-2-123b  ValidationException
+FAIL  minimax.minimax-m2.1  ThrottlingException
+FAIL  us.minimax.minimax-m2.1  ValidationException
+FAIL  openai.gpt-6.1-sol  AccessDeniedException
+FAIL  us.openai.gpt-6.1-sol  AccessDeniedException
+FAIL  nvidia.nemotron-super-3-120b  ThrottlingException
+FAIL  us.nvidia.nemotron-super-3-120b  ValidationException
+FAIL  qwen.qwen3-32b-v1:0  ThrottlingException
+FAIL  us.qwen.qwen3-32b-v1:0  ValidationException
+FAIL  mistral.ministral-3-14b-instruct  ThrottlingException
+FAIL  us.mistral.ministral-3-14b-instruct  ValidationException
+FAIL  anthropic.claude-opus-4-6-v1  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.anthropic.claude-opus-4-6-v1  ResourceNotFoundException
+FAIL  writer.palmyra-x5-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.writer.palmyra-x5-v1:0  ThrottlingException
+FAIL  nvidia.nemotron-nano-9b-v2  ThrottlingException
+FAIL  us.nvidia.nemotron-nano-9b-v2  ValidationException
+FAIL  mistral.ministral-3-8b-instruct  ThrottlingException
+FAIL  us.mistral.ministral-3-8b-instruct  ValidationException
+FAIL  mistral.voxtral-small-24b-2507  ThrottlingException
+FAIL  us.mistral.voxtral-small-24b-2507  ValidationException
+FAIL  zai.glm-5  ThrottlingException
+FAIL  us.zai.glm-5  ValidationException
+FAIL  openai.gpt-oss-20b-1:0  ThrottlingException
+FAIL  us.openai.gpt-oss-20b-1:0  ValidationException
+FAIL  anthropic.claude-opus-5  AccessDeniedException
+FAIL  us.anthropic.claude-opus-5  AccessDeniedException
+FAIL  google.gemma-3-4b-it  ThrottlingException
+FAIL  us.google.gemma-3-4b-it  ValidationException
+FAIL  anthropic.claude-opus-4-8  AccessDeniedException
+FAIL  us.anthropic.claude-opus-4-8  AccessDeniedException
+FAIL  anthropic.claude-opus-4-7  AccessDeniedException
+FAIL  us.anthropic.claude-opus-4-7  AccessDeniedException
+FAIL  openai.gpt-oss-safeguard-120b  ThrottlingException
+FAIL  us.openai.gpt-oss-safeguard-120b  ValidationException
+FAIL  google.gemma-3-27b-it  ThrottlingException
+FAIL  us.google.gemma-3-27b-it  ValidationException
+FAIL  openai.gpt-6-sol  AccessDeniedException
+FAIL  us.openai.gpt-6-sol  AccessDeniedException
+FAIL  writer.palmyra-x4-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.writer.palmyra-x4-v1:0  ThrottlingException
+FAIL  anthropic.claude-sonnet-4-5-20250929-v1:0  ValidationException’t supported. Retry your request with the ID or ARN of an inference profile that contains this model.
+FAIL  us.anthropic.claude-sonnet-4-5-20250929-v1:0  ResourceNotFoundException
+FAIL  qwen.qwen3-vl-235b-a22b  ThrottlingException
+FAIL  us.qwen.qwen3-vl-235b-a22b  ValidationException
+FAIL  openai.gpt-6-luna  AccessDeniedException
+FAIL  us.openai.gpt-6-luna  AccessDeniedException
+FAIL  anthropic.claude-fable-5-1  AccessDeniedException
+FAIL  us.anthropic.claude-fable-5-1  AccessDeniedException
+FAIL  zai.glm-4.7  ThrottlingException

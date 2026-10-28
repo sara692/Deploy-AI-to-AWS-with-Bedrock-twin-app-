@@ -1,0 +1,21 @@
+{
+  "full_name": "Sara Ibrahim Mohamed Omran",
+  "name": "Sara",
+  "current_role": "Generative AI & LLM Engineer",
+  "location": "Giza, Egypt",
+  "email": "saraomran433@gmail.com",
+  "linkedin": "linkedin.com/in/sara-ibrahim-omran",
+  "specialties": [
+    "Generative AI, LLMs, and RAG Systems",
+    "AI Agents and Multi-Agent Systems",
+    "Machine Learning, MLOps, and AI Deployment"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Electronics & Communications",
+      "institution": "Cairo University",
+      "year": "2021"
+    }
+  ]
+}
